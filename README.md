@@ -1,6 +1,6 @@
 # ArtExtract GSoC Submission
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/github/YOUR-GITHUB-USERNAME/REPO-NAME/blob/main/FILENAME.ipynb](https://colab.research.google.com/github/cherry51015/ArtExtract-GSoC-2025/blob/main/ArtExtract.ipynb#scrollTo=eZ8VAzWof4Tk))
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://raw.githubusercontent.com/cherry51015/ArtExtract-GSoC-2025/refs/heads/main/ArtExtract.ipynb)
 
 ## How to Run
 1. Click the **Open in Colab** button above
